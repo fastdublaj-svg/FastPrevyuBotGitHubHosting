@@ -1,1 +1,1 @@
-# FastPrevyuBotGitHubHosting
+# FastPrevyuBotHosting.py
