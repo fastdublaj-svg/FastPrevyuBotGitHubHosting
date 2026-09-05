@@ -23,12 +23,12 @@ from aiogram.types import (
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
 
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "PASTE_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("8797408746:AAE-3uzRrIEo9kv2pB1OzzLD6pmO7xe1NQI", "PASTE_BOT_TOKEN_HERE")
 
 ADMIN_IDS = {7543852010, 418350122}
 PRIMARY_ADMIN_USERNAME = "@Fast_gamer_uz"
 
-PREVIEW_COST = 1000
+PREVIEW_COST = 5
 REF_REWARD = 5
 
 GAME_URL = "https://t.me/FastPrevyuBotShashkaGame.Replit.app"
